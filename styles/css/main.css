@@ -1,0 +1,57 @@
+body {
+font-family: 'Alatsi';
+background-color: white}
+
+#container{
+    text-align: center;
+    color: red;
+}
+.section{
+    text-align: center;
+    margin-top:16px;
+    color: black;
+    font-weight: bold;
+
+}
+label {
+  color: red; 
+
+}
+
+
+.section span {
+  font-size: 16px;
+}
+
+#btn{
+    width: 200px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: pink;
+    border-radius: 15px;
+    border: 1px solid #000;
+    box-shadow: 0 2px 2px #333;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-family: 'Alatsi';
+}
+
+#btn:hover {
+    background-color: lightskyblue;
+    color: black;
+}
+
+input[type=text] {
+    width: 150px;
+    height: 30px;
+    margin-left:10px;
+    font-size: 16px;
+   font-family: 'Alatsi';
+  }
+
+#credits {
+    font-weight : 600;
+    letter-spacing: 0.07rem;
+    text-align: center;
+}
